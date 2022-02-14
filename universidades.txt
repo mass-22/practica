@@ -3,3 +3,4 @@ UDEA
 UPB
 UNAL
 UPV
+TEC
